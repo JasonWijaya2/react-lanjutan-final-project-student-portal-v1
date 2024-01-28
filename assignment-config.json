@@ -1,0 +1,16 @@
+{
+	"name": "react-lanjutan-final-project-student-portal",
+	"course": "Frontend Web Development with React",
+	"title": "Final Project - Student Portal",
+	"order": 999,
+	"topics": [
+		"Chakra UI",
+		"Firebase Deployment"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 39,
+	"metadata": {
+		"type": "final-project"
+	}
+}
